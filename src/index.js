@@ -4,7 +4,6 @@ const colleges2 = require('./colleges2.json');
 const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
 const keep_alive = require('./keep_alive.js')
-//const { SlashCommandBuilder} = require('discord.js');
 const fs = require('fs');
 const path = require('path');
 const rules = require('./rules.json');
